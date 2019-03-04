@@ -29,6 +29,14 @@
 * Staging projects for devel:languages:perl
 
 
+<!-- .slide: data-state="normal" id="services-in-obs" data-timing="60s" -->
+# Services
+
+<div style="width:90%">
+   <img alt="Service Workflow" src="images/service_workflow.png"/>
+</div>
+
+
 <!-- .slide: data-state="normal" id="perl-packaging-guidelines" data-timing="60s" -->
 ## Perl Packaging Guidelines
 

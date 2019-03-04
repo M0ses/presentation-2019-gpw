@@ -12,6 +12,13 @@
   * Multiple architectures (x86_64, i686, powerpc, ARM, S390, etc.)
  
 
+Note:
+
+* started in 2006 as building environment for openSUSE
+* over 61000 Projects
+* over 520000 Packages
+* over 220000 build jobs per day
+
 
 <!-- .slide: data-state="normal" id="obs-principals" data-timing="20s"-->
 # Principals
@@ -20,12 +27,3 @@
 * rebuilding on dependencies changes
 * Secure server side building.
 * builds/works on my machine?
-
-
-<!-- .slide: data-state="normal" id="number-and-facts" data-timing="20s"-->
-# Numbers and facts:
-
-* started in 2006 as building environment for openSUSE
-* over 61000 Projects
-* over 520000 Packages
-* over 220000 build jobs per day
