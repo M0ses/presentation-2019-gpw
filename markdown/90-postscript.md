@@ -1,3 +1,11 @@
+<!-- .slide: data-state="normal" id="opensuse-conference" data-menu-title="openSUSE Conference 2019" -->
+<h1>openSUSE Conference 2019</h1>
+
+<h2>May 24 - 26, 2019 Z-Bau Nuremberg</h2>
+
+<h2>https://events.opensuse.org/conferences/oSC19</h2>
+
+
 <!-- .slide: data-state="normal" id="call-to-action" data-menu-title="Call to action" -->
 <div class="call-to-action">
     <h2 class="inside" style="text-align:center;">
