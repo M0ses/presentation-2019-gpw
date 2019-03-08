@@ -5,3 +5,6 @@
 <!-- .slide: data-state="normal" id="general-workflow-overview" data-timing="60s" data-menu-title="Workflow overview"-->
 
 <img alt="Workflow Image" src="images/workflow.svg" style="width:100%;"/>
+
+Note:
+* Multiple SCM
