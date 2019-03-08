@@ -18,7 +18,7 @@ Note:
 * over 61000 Projects
 * over 520000 Packages
 * over 220000 build jobs per day
-
+* about 20TB Sources
 
 <!-- .slide: data-state="normal" id="obs-principals" data-timing="20s"-->
 # Principals
